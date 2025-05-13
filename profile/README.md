@@ -4,6 +4,7 @@
 
 - **[Literal](https://literal.fun)**
 - **[Phlex](https://www.phlex.fun)**
+- **[Good Cop](https://github.com/yippee-fun/goodcop)**
 
 ### Works in Progress
 
