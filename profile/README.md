@@ -1,11 +1,11 @@
 # Yippee
 
-## Stable Projects
+### Stable Projects
 
 - **[Literal](https://literal.fun)**
 - **[Phlex](https://www.phlex.fun)**
 
-## Works in Progress
+### Works in Progress
 
 - **[Plume](https://github.com/yippee-fun/plume)**
 - **[Quickdraw](https://github.com/yippee-fun/quickdraw)**
