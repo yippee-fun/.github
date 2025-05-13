@@ -19,3 +19,4 @@ We’re building a set of libraries to support our vision for a new full stack w
 - A secret frontend project
 - A routing-tree based router (similar to Roda)
 - An ORM for SQLite
+- A library to connect realtime Svelte state to a Ruby backend
