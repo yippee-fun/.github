@@ -13,3 +13,9 @@ We’re building a set of libraries to support our vision for a new full stack w
 
 - **[Plume](https://github.com/yippee-fun/plume)** is a SQLite-dialect SQL parser written in Ruby.
 - **[Quickdraw](https://github.com/yippee-fun/quickdraw)** is a multi-core test runner.
+
+### Planned
+
+- A secret frontend project
+- A routing-tree based router (similar to Roda)
+- An ORM for SQLite
